@@ -64,6 +64,15 @@ const styles = StyleSheet.create({
     fontSize: 14,
     color: '#888',
   },
+  image: {
+
+    width:50,
+    height:50,
+    
+
+   
+  },
+
 });
 
 export default App;
